@@ -377,6 +377,7 @@ external.fsjc1-2.fna.fbcdn.net
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 ncontent.xx.fbcdn.net
+nl-nl.facebook.com
 origincache-ash.t.fbcdn.net
 origincache-frc.t.fbcdn.net
 origincache-prn.t.fbcdn.net
@@ -443,6 +444,8 @@ scontent-a-sjc.xx.fbcdn.net
 scontent-a-vie.xx.fbcdn.net
 scontent-a.xx.fbcdn.net
 scontent-ams.xx.fbcdn.net
+scontent-ams3-1.xx.fbcdn.net
+scontent-amt2-1.xx.fbcdn.net
 scontent-atl.xx.fbcdn.net
 scontent-b-ams.xx.fbcdn.net
 scontent-b-atl.xx.fbcdn.net
@@ -815,3 +818,7 @@ sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 fb.com
 newsroom.fb.com
 investor.fb.com
+lithium.facebook.com
+lookaside.facebook.com
+mqtt-mini.facebook.com
+external-ams3-1.xx.fbcdn.net
