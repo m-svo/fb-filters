@@ -5,7 +5,12 @@
 apps.facebook.com
 connect.facebook.net
 ru-ru.facebook.com
+nl-be.facebook.com
 facebook.com
+facebook.com.edgesuite.net
+facebook.com.edgekey.net
+facebook.net
+facebook.net.edgekey.net
 fbcdn.com
 fbsbx.com
 fbcdn.net
@@ -14,6 +19,7 @@ login.facebook.com
 s-static.ak.facebook.com
 static.ak.connect.facebook.com
 static.ak.fbcdn.net
+tfbnw.net
 www.connect.facebook.net
 www.facebook.com
 www.fbcdn.com
