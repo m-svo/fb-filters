@@ -532,7 +532,6 @@ sphotos-b-vie.xx.fbcdn.net
 sphotos-b.xx.fbcdn.net
 sphotos.xx.fbcdn.net
 sphotosbord.xx.fbcdn.net
-static.xx.fbcdn.net
 video-iad3-1.xx.fbcdn.net
 vthumb.xx.fbcdn.net
 xx-fbcdn-shv-01-ams2.fbcdn.net
