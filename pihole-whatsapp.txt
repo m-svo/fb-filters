@@ -1,5 +1,7 @@
 # Blocklist for Whatsapp
 
+api.whatsapp.com
+static.xx.fbcdn.net
 whatsapp.com
 www.whatsapp.com
 web.whatsapp.com
