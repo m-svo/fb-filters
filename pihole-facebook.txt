@@ -14,6 +14,7 @@ facebook.net.edgekey.net
 fbcdn.com
 fbsbx.com
 fbcdn.net
+fb.watch
 graph.facebook.com
 login.facebook.com
 s-static.ak.facebook.com
